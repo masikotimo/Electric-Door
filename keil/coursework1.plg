@@ -1,0 +1,16 @@
+<html>
+<body>
+<pre>
+<h1>µVision3 Build Log</h1>
+<h2>Project:</h2>
+C:\Users\flavi\Desktop\COURSWORK\NUMBER1\keil\coursework1.uv2
+Project File Date:  12/07/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling coursewak.c...
+linking...
+Program Size: data=79.1 xdata=0 code=2946
+creating hex file from "coursework1"...
+"coursework1" - 0 Error(s), 0 Warning(s).
